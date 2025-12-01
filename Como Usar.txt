@@ -1,0 +1,12 @@
+Como rodar o projeto
+
+1. Clone o projeto ou baixe os arquivos
+
+2. Crie o banco de dados no PostgreSQL usando:
+sql/create_tables.sql
+
+3. Em `db.js`, adicione sua senha do banco
+
+4. Instale as dependências:
+
+5. Inicie o servidor:
